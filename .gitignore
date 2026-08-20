@@ -1,0 +1,26 @@
+# Byte-compiled files
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+.venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Cache files
+*.cache
+*.log
+
+# OS-specific files
+.DS
+
+.python-version
+wandb
+
+codebase_documentation.pdf
+DOCUMENTATION.pdf
+
+# Antigravity files
+antigravity/
+antigravity.*
